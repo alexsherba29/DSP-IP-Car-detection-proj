@@ -1,4 +1,4 @@
-# DSP-IP
+# DSP-IP-Car-detection
 ### Installation
 ```bash
 pip install -r requirements.txt 
